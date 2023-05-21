@@ -1,4 +1,4 @@
-#создай приложение для запоминания информации
+
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QRadioButton,
     QGroupBox, QVBoxLayout, QHBoxLayout, QButtonGroup, QMessageBox
