@@ -1,5 +1,5 @@
 # MemCrd
 
-Memory card APP/
+Memory card APP
 
 Powered with PyQt5
